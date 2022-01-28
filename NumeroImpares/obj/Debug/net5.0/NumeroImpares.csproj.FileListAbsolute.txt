@@ -1,0 +1,16 @@
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\NumeroImpares.exe
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\NumeroImpares.deps.json
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\NumeroImpares.runtimeconfig.json
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\NumeroImpares.runtimeconfig.dev.json
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\NumeroImpares.dll
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\ref\NumeroImpares.dll
+F:\IaraTech\NumeroImpares\NumeroImpares\bin\Debug\net5.0\NumeroImpares.pdb
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.csproj.AssemblyReference.cache
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.GeneratedMSBuildEditorConfig.editorconfig
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.AssemblyInfoInputs.cache
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.AssemblyInfo.cs
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.csproj.CoreCompileInputs.cache
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.dll
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\ref\NumeroImpares.dll
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.pdb
+F:\IaraTech\NumeroImpares\NumeroImpares\obj\Debug\net5.0\NumeroImpares.genruntimeconfig.cache
